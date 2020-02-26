@@ -4,3 +4,5 @@ class Chatty_student < Student
     puts "Hey there! I'm so excited to learn stuff."
   end 
   
+  
+  
